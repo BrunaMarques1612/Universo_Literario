@@ -1,0 +1,32 @@
+Apresentando o: Universo Literário
+
+Bem-vindos à apresentação do "Universo Literário", a ferramenta definitiva para amantes de livros e colecionadores.
+Este software foi projetado para tornar o gerenciamento de sua biblioteca mais fácil e prazeroso.
+
+Requisitos Funcionais:
+
+Cadastro de Livros: Os usuários podem adicionar informações sobre livros à sua coleção, incluindo título, autor, gênero do livro, e depois de fazer o cadastro, o usuário deverá atribuir uma nota de 0 a 10 indicando o quanto ele gostou/indica aquele livro.
+
+Pesquisa de Livros: Os usuários podem pesquisar livros em sua coleção com base em critérios como título, autor, gênero ou atribuição de nota.
+
+Edição de Livros: Os usuários podem editar as informações de um livro existente, como título, autor e outros detalhes.
+
+Exclusão de Livros: Os usuários podem remover livros de sua coleção.
+
+Interface Gráfica Intuitiva: O sistema deve ter uma interface gráfica amigável e fácil de usar, com botões e menus intuitivos.
+
+Banco de Dados: Os dados dos livros e informações relacionadas devem ser armazenados em um banco de dados seguro.
+
+
+
+Requisitos não funcionais:
+
+Segurança: O sistema deve garantir a segurança dos dados do usuário, incluindo senhas e informações de empréstimo, por meio de criptografia e autenticação robusta.
+
+Desempenho: O sistema deve ser capaz de lidar com um grande número de livros e usuários, mantendo um tempo de resposta rápido.
+
+Disponibilidade: O sistema deve estar disponível 24/7, com tempo de inatividade planejado limitado para manutenção.
+
+Compatibilidade: A interface gráfica deve ser compatível com uma variedade de sistemas operacionais.
+
+Escalabilidade: O banco de dados deve ser escalável para acomodar um aumento na coleção de livros e usuários.

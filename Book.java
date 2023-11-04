@@ -1,13 +1,13 @@
 package main.java.model;
 
-public class Book {
+public class Livro {
     private int id;
-    private String title;
-    private String author;
-    private int year;
+    private String titulo;
+    private String autor;
+    private int ano;
 
     // Construtor
-    public Book() {
+    public Livro() {
         // Construtor vazio
     }
 
@@ -20,31 +20,31 @@ public class Book {
         this.id = id;
     }
 
-    // Getters e setters para o campo 'title'
-    public String getTitle() {
-        return title;
+    // Getters e setters para o campo 'titulo'
+    public String getTitulo() {
+        return titulo;
     }
 
-    public void setTitle(String title) {
-        this.title = title;
+    public void setTitulo(String titulo) {
+        this.titulo= titulo;
     }
 
-    // Getters e setters para o campo 'author'
-    public String getAuthor() {
-        return author;
+    // Getters e setters para o campo 'autor'
+    public String getAutor) {
+        return autor;
     }
 
-    public void setAuthor(String author) {
-        this.author = author;
+    public void setAutor(String autor) {
+        this.autor = autor;
     }
 
-    // Getters e setters para o campo 'year'
-    public int getYear() {
-        return year;
+    // Getters e setters para o campo 'ano'
+    public int getAno() {
+        return ano;
     }
 
-    public void setYear(int year) {
-        this.year = year;
+    public void setAno(int ano) {
+        this.ano = ano;
     }
 }
 

@@ -2,8 +2,8 @@ package main.java.model;
 
 public class Review {
     private int id;
-    private int bookId;
-    private int userId;
+    private int livroId;
+    private int usuarioId;
     private int rating;
     private String comment;
 
@@ -20,22 +20,22 @@ public class Review {
         this.id = id;
     }
 
-    // Getter e Setter para 'bookId'
-    public int getBookId() {
-        return bookId;
+    // Getter e Setter para 'livroId'
+    public int getLivroId() {
+        return livroId;
     }
 
-    public void setBookId(int bookId) {
-        this.bookId = bookId;
+    public void setLivroId(int livroId) {
+        this.livroId = livroId;
     }
 
-    // Getter e Setter para 'userId'
-    public int getUserId() {
-        return userId;
+    // Getter e Setter para 'usuarioId'
+    public int getUsuarioId() {
+        return usuarioId;
     }
 
-    public void setUserId(int userId) {
-        this.userId = userId;
+    public void setUsuarioId(int usuarioId) {
+        this.usuarioId = usuarioId;
     }
 
     // Getter e Setter para 'rating'

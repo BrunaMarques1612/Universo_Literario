@@ -10,7 +10,6 @@ create table User_Admin(
     Senha varchar(100) primary key not null
 );
 
-
 create table User_Comum(
     Nome varchar(100),
     Idade int (10),
@@ -27,23 +26,20 @@ create table Livros(
     Autor varchar(100) primary key not null
 );
 
--- create table Romance(
---     Titulo varchar(100),
---     Classificacao varchar(100),
---     Autor varchar(100) primary key not null
--- );
+create table Romance(
+    Titulo varchar(100),
+    Classificacao varchar(100),
+    Autor varchar(100) primary key not null
+);
 
+create table Ficcao(
+    Titulo varchar(100),
+    Classificacao varchar(100),
+    Autor varchar(100) primary key not null
+);
 
--- create table Ficcao(
---     Titulo varchar(100),
---     Classificacao varchar(100),
---     Autor varchar(100) primary key not null
--- );
-
-
-
--- create table Tecnico(
---     Titulo varchar(100),
---     Classificacao varchar(100),
---     Autor varchar(100) primary key not null
--- );
+create table Tecnico(
+    Titulo varchar(100),
+    Classificacao varchar(100),
+    Autor varchar(100) primary key not null
+);

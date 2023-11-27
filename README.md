@@ -12,7 +12,7 @@ Universo Literário é um projeto Java, desenvolvido para o segundo semestre de 
 
 ## Recursos <a name = "features"></a>
 
-Universo Literário permite que você acesse um catálogo completo de avaliações de livros.  Universo Literário você pode:
+Universo Literário permite que você acesse um catálogo completo de avaliações de livros.  No Universo Literário você pode:
 - Cadastrar um novo livro;
 - Avaliar livros que já foram cadastrados;
 - Procurar livros;

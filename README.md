@@ -1,12 +1,4 @@
 # Universo Literário
-<div align="center">
-    <img src="./src/assets/src\assets\biblioteca2_login.jpg">
-    <br>
-    <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-    <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-    <img width="40px" src="https://davibatista.tech/assets/images/techs/sql.png"/>
-    <img width="50px" src="https://user-images.githubusercontent.com/43886029/158700686-2b7f0d3d-2cfa-4ed0-9783-3b4b0d24469e.svg"/>
-</div>
 
 ## 📖 Índice
 - [Sobre](#about-it)

@@ -1,6 +1,6 @@
 # Universo Literário
 
-## 📖 Índice
+## Índice
 - [Sobre](#about-it)
 - [Recursos](#features)
 - [Tecnologias/Serviços /utilizados](#techs-used)
@@ -19,7 +19,7 @@ Universo Literário permite que você acesse uma biblioteca completa de notas e 
 E muito mais!
 
 
-## ⛏ Tecnologias/Serviços Utilizados <a name = "techs-used"></a>
+## Tecnologias/Serviços Utilizados <a name = "techs-used"></a>
 
 - [Aiven.io](https://aiven.io/)
 - [Apache NetBeans](https://netbeans.apache.org/)

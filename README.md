@@ -7,16 +7,16 @@
 
 ## Sobre o projeto <a name = "about-it"></a>
 
-Universo Literário é um aplicativo de desktop Java para avaliação de livros, desenvolvido como projeto para o segundo semestre de 2023. Ele simula um sistema de revisão de biblioteca digital, onde os usuários podem encontrar e adicionar informações sobre livros, juntamente com muitas outras pessoas no serviço do sistema. As pessoas podem encontrar, cadastrar, avaliar e ver informações sobre livros.
+Universo Literário é um projeto Java, desenvolvido para o segundo semestre de 2023. Ele funciona como uma biblioteca digital, onde você pode interagir com outros usuários e trocar informações sobre livros. Você também pode dar suas próprias avaliações para os livros que desejar. 
+
 
 ## Recursos <a name = "features"></a>
 
-Universo Literário permite que você acesse uma biblioteca completa de notas e avaliações de livros. Você e muitas pessoas, ao usar o Universo Literário, podem encontrar informações sobre vários tipos de livros e ver o que as pessoas pensam sobre eles. Você pode:
+Universo Literário permite que você acesse um catálogo completo de avaliações de livros.  Universo Literário você pode:
 - Cadastrar um novo livro;
-- Avaliar livros que as pessoas já cadastraram;
-- Procurar livros pelo nome;
-- Filtrar livros por classificações e média de classificação;
-E muito mais!
+- Avaliar livros que já foram cadastrados;
+- Procurar livros;
+- Filtrar livros por nota e média de classificação;
 
 
 ## Tecnologias/Serviços Utilizados <a name = "techs-used"></a>

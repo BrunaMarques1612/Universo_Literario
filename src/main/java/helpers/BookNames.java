@@ -11,7 +11,7 @@ import com.mycompany._usjt_psc_sistema.models.Book;
 
 /**
  *
- * @author 823212382
+ * @author 823155744
  */
 public class BookNames {
     public static String[] getBookNames()   {

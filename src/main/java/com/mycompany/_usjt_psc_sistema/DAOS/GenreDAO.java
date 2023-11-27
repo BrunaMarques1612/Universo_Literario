@@ -14,7 +14,7 @@ import helpers.ConnectionFactory;
 
 /**
  *
- * @author Usuario
+ * @author Mauricio
  */
 public class GenreDAO {
     /* Find all the genres in the database */

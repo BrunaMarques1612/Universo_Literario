@@ -6,7 +6,7 @@ package com.mycompany._usjt_psc_sistema.models;
 
 /**
  *
- * @author Samsung
+ * @author 823155744
  */
 public class Book {
   private int id;

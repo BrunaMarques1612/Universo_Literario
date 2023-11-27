@@ -20,7 +20,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author 823212382
+ * @author Mauricio
  */
 public class AdminBookManager extends javax.swing.JFrame {
 

@@ -16,7 +16,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Samsung
+ * @author Mauricio
  */
 public class BookDAO {
 

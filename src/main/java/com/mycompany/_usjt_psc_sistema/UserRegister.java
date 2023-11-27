@@ -16,7 +16,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Samsung
+ * @author 823155744
  */
 public class UserRegister extends javax.swing.JFrame {
 

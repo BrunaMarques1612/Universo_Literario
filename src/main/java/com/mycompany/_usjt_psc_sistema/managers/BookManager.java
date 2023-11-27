@@ -19,7 +19,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author 823212382
+ * @author Mauricio
  */
 public class BookManager extends javax.swing.JFrame {
 

@@ -20,7 +20,7 @@ import helpers.BookNames;
 
 /**
  *
- * @author 823212382
+ * @author 823155744
  */
 public class RateBook extends javax.swing.JFrame {
 

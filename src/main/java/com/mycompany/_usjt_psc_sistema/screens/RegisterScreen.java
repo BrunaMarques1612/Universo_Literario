@@ -16,7 +16,7 @@ import helpers.GenreNames;
 
 /**
  *
- * @author Usuario
+ * @author Mauricio
  */
 public class RegisterScreen extends javax.swing.JFrame {
 

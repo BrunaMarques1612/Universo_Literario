@@ -19,7 +19,7 @@ import helpers.BookNames;
 
 /**
  *
- * @author 823212382
+ * @author Mauricio
  */
 public class AdminRateBook extends javax.swing.JFrame {
 

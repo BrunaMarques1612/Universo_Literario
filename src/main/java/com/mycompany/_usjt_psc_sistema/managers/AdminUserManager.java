@@ -13,7 +13,7 @@ import com.mycompany._usjt_psc_sistema.screens.AdminDashboardScreen;
 
 /**
  *
- * @author 823212382
+ * @author Usuario
  */
 public class AdminUserManager extends javax.swing.JFrame {
 

@@ -13,7 +13,7 @@ import app.App;
 
 /**
  *
- * @author Usuario
+ * @author Mauricio
  */
 public class DashboardScreen extends javax.swing.JFrame {
 

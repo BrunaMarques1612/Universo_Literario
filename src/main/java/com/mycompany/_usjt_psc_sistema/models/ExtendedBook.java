@@ -6,7 +6,7 @@ package com.mycompany._usjt_psc_sistema.models;
 
 /**
  *
- * @author 823212382
+ * @author 823155744
  */
 public class ExtendedBook extends Book {
     private int rateAmount;

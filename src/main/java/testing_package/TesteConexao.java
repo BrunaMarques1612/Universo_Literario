@@ -10,7 +10,7 @@ import helpers.ConnectionFactory;
 
 /**
  *
- * @author rodrigo
+ * @author Mauricio
  */
 public class TesteConexao {
     public static void main(String[] args) {

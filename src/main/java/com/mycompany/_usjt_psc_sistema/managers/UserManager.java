@@ -13,7 +13,7 @@ import com.mycompany._usjt_psc_sistema.screens.DashboardScreen;
 
 /**
  *
- * @author 823212382
+ * @author Mauricio
  */
 public class UserManager extends javax.swing.JFrame {
 

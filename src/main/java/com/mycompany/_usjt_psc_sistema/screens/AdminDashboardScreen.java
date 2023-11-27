@@ -12,7 +12,7 @@ import com.mycompany._usjt_psc_sistema.managers.AdminBookManager;
 
 /**
  *
- * @author Usuario
+ * @author Mauricio
  */
 public class AdminDashboardScreen extends javax.swing.JFrame {
 

@@ -12,7 +12,7 @@ import com.mycompany._usjt_psc_sistema.models.Book;
 
 /**
  *
- * @author 823212382
+ * @author Usuario
  */
 public class AdminFindBook extends javax.swing.JFrame {
 

@@ -11,7 +11,7 @@ import com.mycompany._usjt_psc_sistema.models.Genre;
 
 /**
  *
- * @author 823212382
+ * @author 823155744
  */
 public class GetGenres extends javax.swing.JFrame {
 
